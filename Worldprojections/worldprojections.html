@@ -8,6 +8,8 @@
 <body> 
     <h1>In this project I learned how to display maps in different projections. </h1>
     
+    <p>In this homework assignment, we used what we have learned about changing the projection of maps to display a variation of different projections and note their distortions. By changing the display projection, rather than the projection of individual data sources, we were able to change the image of the earth to specific projections while also preserving the original data. To do this, I downloaded the natural earth shapefile to QGIS, looked to the bottom right of QGIS where it says EPSG: 4326, and changed the CRS, or the Coordinate Reference System, to the projections denoted in the instructions. Further, in order to be able to adequately see the projections faults, the Indicatrix mapper, modeled after Tissot’s indicatrix. This allowed me to visualize the distortion present in the different projections.</p>
+    
     <h2>WGS84 Projection</h2>
     <h3>The WGS84 projection is a fairly accurate projection. Where it falls short, and where distortions begin to appear are as the latitudes move further and further away from the equator.</h3>
     <a href=".//maps/4326.png">
@@ -52,6 +54,7 @@
     <h3>The Goode Homolosine projection is an equal-area projection. However, as seen in the map below, this map distorts the shapes of the continents. </h3>
     <a href=".//maps/Goode Projection.png">
     <img src=".//maps/Goode Projection.png" alt="Robinson" width='500px'>
+
     <p></p>
     <h2>Data used for this project</h2>
     <a href="https://www.naturalearthdata.com/http//www.naturalearthdata.com/download/10m/cultural/ne_10m_admin_0_countries.zip"> Download Natrual Earth 1:10m Cultural Vector </a>
