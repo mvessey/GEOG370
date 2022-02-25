@@ -1,5 +1,4 @@
-GEO_ID,NAME,S1501_C01_016E,S1501_C01_018E,S1501_C02_018E
-id,Geographic Area Name,Estimate!!Total!!AGE BY EDUCATIONAL ATTAINMENT!!Population 25 to 34 years,Estimate!!Total!!AGE BY EDUCATIONAL ATTAINMENT!!Population 25 to 34 years!!Bachelor's degree or higher,Estimate!!Percent!!AGE BY EDUCATIONAL ATTAINMENT!!Population 25 to 34 years!!Bachelor's degree or higher
+GEO_ID,NAME,Number of adults ages 25 - 34,# of adults with bachelors ,Percent
 24001,"Allegany County, Maryland",8737,1489,17
 24003,"Anne Arundel County, Maryland",80951,35128,43.4
 24005,"Baltimore County, Maryland",114114,46947,41.1
